@@ -61,3 +61,9 @@ This command will output the following styles
     hugo -s documentation serve
     ```
 - If you start the Hugo server, it will serve Hugo on the following path `http://localhost:1313`
+
+## Contributing
+To contribute, open merge requests at https://gitlab.gnome.org/Teams/Engagement/websites/general-website-resources.
+
+Commit messages should follow the [GNOME commit message
+guidelines](https://wiki.gnome.org/Git/CommitMessages).
